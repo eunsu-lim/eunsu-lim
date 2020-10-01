@@ -1,6 +1,9 @@
 <!--
 ### Hi there 👋
 -->
+
+### 안녕하세요, Front-end 개발자 임은수입니다.
+
 <!--
 **eunsu-lim/eunsu-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
