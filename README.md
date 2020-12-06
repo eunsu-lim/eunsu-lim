@@ -7,13 +7,13 @@
 ### Connect with me:
 
 [<img align="left" alt="My_site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!--[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src=" " />][instagram]
 [<img align="left" alt="notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][notion]
 
 [website]: https://eunsu-lim.github.io/im_eunsu/
-[instagram]: https://www.instagram.com/__eslim_/
-<!--[linkedin]: https://linkedin.com-->
+[instagram]: https://www.instagram.com/__eslim_/ 
+[linkedin]: https://linkedin.com
 [notion]: https://www.notion.so/Lim-EunSu-2106d563a7814e3ba1c596fd7e593763
 
 <br />
